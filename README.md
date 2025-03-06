@@ -1,7 +1,7 @@
 ## Hi there 👋
-## 🔭 I’m currently working on projects using ROS & Machine Learning.
-## 🌱 I’m currently learning Artificial Intelligence.
-## ⚡ Fun fact: London Red Busses are manufactured in Cairo, Egypt.
+# 🔭 I’m currently working on projects using ROS & Machine Learning.
+# 🌱 I’m currently learning Artificial Intelligence.
+# ⚡ Fun fact: London Red Busses are manufactured in Cairo, Egypt.
 
 
 <!--
