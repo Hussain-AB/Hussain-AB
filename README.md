@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on projects using Cloud Computing & Machine Learning.
+- 🔭 I’m currently working on projects using Deep & Machine Learning.
 - 🌱 I’m currently learning Artificial Intelligence.
 - ⚡ Fun fact: London red busses are manufactured in Cairo, Egypt.
 
